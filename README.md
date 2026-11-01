@@ -41,4 +41,4 @@ In your solution you must provide the following in your Github link account:
 *Uploaded java codes for the solution.
 
 # UML Class Diagram
-![alt text](<Blank diagram (5).png>)
+<img width="1388" height="963" alt="Blank diagram (6)" src="https://github.com/user-attachments/assets/63034601-f696-43fa-ac8a-ac8b2e98ae55" />
